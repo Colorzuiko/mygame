@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":122,"indent":0,"parameters":[1,1,0,3,4,0,0]},{"code":111,"indent":0,"parameters":[1,1,0,0,0]},{"code":121,"indent":1,"parameters":[1,1,0]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"戰鬥過場01","switchId":1,"trigger":0},
+{"id":2,"list":[{"code":101,"indent":0,"parameters":["1332010101",0,0,2]},{"code":401,"indent":0,"parameters":["\\n[19]："]},{"code":401,"indent":0,"parameters":["破綻太大，太多反擊機會"]},{"code":401,"indent":0,"parameters":["對女生不能這麼粗魯喔～"]},{"code":101,"indent":0,"parameters":["1332010101",0,0,2]},{"code":401,"indent":0,"parameters":["\\n[19]："]},{"code":401,"indent":0,"parameters":["從你的劍路上觀察，是使用蠻力在洩憤，"]},{"code":401,"indent":0,"parameters":["心思異常雜亂，有種不甘心、又不願意服輸，"]},{"code":401,"indent":0,"parameters":["安內母湯喔！"]},{"code":101,"indent":0,"parameters":["1332010101",0,0,2]},{"code":401,"indent":0,"parameters":["\\n[19]："]},{"code":401,"indent":0,"parameters":["給我站起來！拿出精神！"]},{"code":401,"indent":0,"parameters":["專心面對我，要上了！"]},{"code":0,"indent":0,"parameters":[]}],"name":"武道館劇情","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
